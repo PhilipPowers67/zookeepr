@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -11,14 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/PhilipPowers67/zookeepr.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PhilipPowers67/zookeepr/issues"
   },
-  "homepage": "https://github.com/PhilipPowers67/zookeepr#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/PhilipPowers67/zookeepr#readme"
 }
